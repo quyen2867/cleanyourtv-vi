@@ -20,13 +20,6 @@
   <a href="docs/PRESS.md"><img src="docs/card.jpg" alt="227 mẫu TV · 64 thương hiệu · 25 ngôn ngữ · launcher 470 KB. Được TechCrunch, TechRadar, Tom's Guide, Mashable, Android Authority, XDA, FlatpanelsHD, It's FOSS, Phandroid, GIGAZINE, Xataka, WinFuture, Frandroid, Macitynet, Techaeris, TechPP và 69 đầu báo khác đưa tin: 85 bài viết từ 23 quốc gia. Trước: màn hình chính Google TV gốc kèm một quảng cáo được tài trợ. Sau: launcher Clean Your TV." width="800"></a>
 </p>
 
-> **Ghi chú về bản dịch:** Đây là bản dịch tiếng Việt không chính thức của README gốc
-> [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv). Nội dung và dự án thuộc về tác giả Gathin,
-> phát hành theo giấy phép MIT. Khi có khác biệt, [README tiếng Anh](README.en.md)
-> là bản chuẩn. Toàn bộ mã nguồn, công cụ, theme và danh sách TV của dự án được giữ nguyên trong repo này.
-
-**Dòng tweet lan truyền:** [x.com/gathint/status/2111379569030939102](https://x.com/gathint/status/2111379569030939102)
-
 Ngày 17 tháng 10 năm 2026, tôi đăng ảnh trước và sau chiếc TV của bố mẹ, được Claude Code dọn dẹp qua Wi-Fi.
 Bài đạt 7,4 triệu lượt xem, mọi người bắt đầu làm điều tương tự với TV nhà mình, và các phản hồi biến thành
 những danh sách ở đây: hơn 170 mẫu TV từ hơn 200 người đóng góp trong bốn ngày. Repo từng tên là tv-vibehack
