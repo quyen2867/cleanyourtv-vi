@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cleanyour.tv"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/banner.png" alt="CleanYourTV. TV của bạn, bớt quảng cáo. Gỡ bloatware khỏi mọi Android TV hoặc Google TV qua Wi-Fi và thay màn hình chính đầy quảng cáo bằng một launcher gọn gàng kiểu Apple TV. Không root, không cần cáp, không gỡ cài đặt gì, và khôi phục chỉ bằng một dòng lệnh." width="800"></a>
+  <a href="https://cleanyour.tv"><img src="docs/banner.png" alt="CleanYourTV. TV của bạn, bớt quảng cáo. Gỡ bloatware khỏi mọi Android TV hoặc Google TV qua Wi-Fi và thay màn hình chính đầy quảng cáo bằng một launcher gọn gàng kiểu Apple TV. Không root, không cần cáp, không gỡ cài đặt gì, và khôi phục chỉ bằng một dòng lệnh." width="800"></a>
 </p>
 
 <p align="center">
@@ -7,23 +7,23 @@
   <a href="https://github.com/Gathin23/cleanyourtv/pulls?q=is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3AGathin23%2Fcleanyourtv%20is%3Apr%20is%3Amerged&style=flat&cacheSeconds=1800&label=merged%20PRs&color=cfffcf&labelColor=15181e" alt="Merged PRs"></a>
   <a href="https://github.com/Gathin23/cleanyourtv/network/members"><img src="https://img.shields.io/github/forks/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Forks"></a>
   <a href="https://github.com/Gathin23/cleanyourtv/graphs/contributors"><img src="https://img.shields.io/github/contributors/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Contributors"></a>
-  <a href="https://github.com/Gathin23/cleanyourtv/blob/main/README.md"><img src="https://img.shields.io/badge/README-English-cfffcf?style=flat&labelColor=15181e" alt="English"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/README-English-cfffcf?style=flat&labelColor=15181e" alt="English"></a>
   <a href="https://buymeacoffee.com/gathint"><img src="https://img.shields.io/badge/support-%E2%9D%A4-ff5e8a?style=flat&labelColor=15181e" alt="Ủng hộ, mời tác giả một ly cà phê"></a>
   <a href="https://www.producthunt.com/products/cleanyourtv"><img src="https://img.shields.io/badge/Product%20Hunt-upvote%20%E2%96%B2-da552f?style=flat&logo=producthunt&logoColor=white&labelColor=15181e" alt="CleanYourTV trên Product Hunt"></a>
 </p>
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/310225"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/trending-badge.png" alt="Repo trending số 1 trong tuần, theo trendshift.io" width="360"></a>
+  <a href="https://trendshift.io/repositories/310225"><img src="docs/trending-badge.png" alt="Repo trending số 1 trong tuần, theo trendshift.io" width="360"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gathin23/cleanyourtv/blob/main/docs/PRESS.md"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/card.jpg" alt="227 mẫu TV · 64 thương hiệu · 25 ngôn ngữ · launcher 470 KB. Được TechCrunch, TechRadar, Tom's Guide, Mashable, Android Authority, XDA, FlatpanelsHD, It's FOSS, Phandroid, GIGAZINE, Xataka, WinFuture, Frandroid, Macitynet, Techaeris, TechPP và 69 đầu báo khác đưa tin: 85 bài viết từ 23 quốc gia. Trước: màn hình chính Google TV gốc kèm một quảng cáo được tài trợ. Sau: launcher Clean Your TV." width="800"></a>
+  <a href="docs/PRESS.md"><img src="docs/card.jpg" alt="227 mẫu TV · 64 thương hiệu · 25 ngôn ngữ · launcher 470 KB. Được TechCrunch, TechRadar, Tom's Guide, Mashable, Android Authority, XDA, FlatpanelsHD, It's FOSS, Phandroid, GIGAZINE, Xataka, WinFuture, Frandroid, Macitynet, Techaeris, TechPP và 69 đầu báo khác đưa tin: 85 bài viết từ 23 quốc gia. Trước: màn hình chính Google TV gốc kèm một quảng cáo được tài trợ. Sau: launcher Clean Your TV." width="800"></a>
 </p>
 
 > **Ghi chú về bản dịch:** Đây là bản dịch tiếng Việt không chính thức của README gốc
 > [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv). Nội dung và dự án thuộc về tác giả Gathin,
-> phát hành theo giấy phép MIT. Khi có khác biệt, [README tiếng Anh](https://github.com/Gathin23/cleanyourtv/blob/main/README.md)
-> là bản chuẩn. Mọi liên kết tới mã nguồn, công cụ và danh sách TV trong tài liệu này trỏ về repo gốc.
+> phát hành theo giấy phép MIT. Khi có khác biệt, [README tiếng Anh](README.en.md)
+> là bản chuẩn. Toàn bộ mã nguồn, công cụ, theme và danh sách TV của dự án được giữ nguyên trong repo này.
 
 **Dòng tweet lan truyền:** [x.com/gathint/status/2111379569030939102](https://x.com/gathint/status/2111379569030939102)
 
@@ -61,7 +61,7 @@ Bất kỳ công cụ nào sau đây đều được: Claude Code (trên [0G Pri
 | Ở đâu | Làm gì |
 |---|---|
 | **1. Trên TV** | Cài đặt → Tuỳ chọn thiết bị → Giới thiệu → nhấn OK vào **Build** bảy lần → quay lại → Tuỳ chọn nhà phát triển → bật **Gỡ lỗi USB**. Nếu thấy công tắc Gỡ lỗi mạng hoặc ADB, hãy bật luôn. Giữ TV bật. |
-| **2. Trên máy tính** | Dán [`PROMPT.md`](https://github.com/Gathin23/cleanyourtv/blob/main/PROMPT.md) vào trợ lý và điền mẫu TV của bạn. |
+| **2. Trên máy tính** | Dán [`PROMPT.md`](PROMPT.md) vào trợ lý và điền mẫu TV của bạn. |
 | **3. Làm theo** | Chấp nhận "Cho phép gỡ lỗi USB?" trên TV, rồi trả lời bản danh sách kiểm tra: bạn dùng ứng dụng nào, kích thước dock và thứ tự ứng dụng, có giữ trợ lý giọng nói, Chromecast và cập nhật hay không. |
 
 Trợ lý sẽ sao lưu, tinh gọn (debloat), build và cài launcher, đồng thời kiểm tra từng bước bằng ảnh chụp
@@ -86,13 +86,13 @@ nhà, không ứng dụng bạn chưa từng yêu cầu.
 
 | | |
 |---|---|
-| ![Kệ trên ghi tên ứng dụng đang chọn trên quầng sáng nền cùng màu](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/focus-2-up-netflix.png) | ![Popup Đầu vào: cổng HDMI kèm thiết bị đang kết nối, AV và Live TV](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/inputs-menu.jpg) |
+| ![Kệ trên ghi tên ứng dụng đang chọn trên quầng sáng nền cùng màu](docs/focus-2-up-netflix.png) | ![Popup Đầu vào: cổng HDMI kèm thiết bị đang kết nối, AV và Live TV](docs/inputs-menu.jpg) |
 | *Kệ trên và quầng sáng nền* | *Đầu vào: HDMI kèm trạng thái kết nối, AV, Live TV* |
-| ![Lưới ứng dụng với điểm nhấn kính trên một ô và tên bên dưới](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/focus-1-fancode.png) | ![Trình bảo vệ màn hình đồng hồ: đồng hồ mảnh trôi trên quầng sáng](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/clock-screensaver.png) |
+| ![Lưới ứng dụng với điểm nhấn kính trên một ô và tên bên dưới](docs/focus-1-fancode.png) | ![Trình bảo vệ màn hình đồng hồ: đồng hồ mảnh trôi trên quầng sáng](docs/clock-screensaver.png) |
 | *Lưới ứng dụng, một điểm nhấn kính, tên của ô* | *Trình bảo vệ màn hình đồng hồ, trôi để không bị lưu ảnh* |
-| ![Theme aurora: hình nền và các viên thuốc nhuộm màu, đẩy vào không cần build lại](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/themes/aurora/screenshot.jpg) | ![Sáu cột và dock sáu ứng dụng từ config.json của theme](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/themes/six-columns/screenshot.jpg) |
+| ![Theme aurora: hình nền và các viên thuốc nhuộm màu, đẩy vào không cần build lại](themes/aurora/screenshot.jpg) | ![Sáu cột và dock sáu ứng dụng từ config.json của theme](themes/six-columns/screenshot.jpg) |
 | *Theme Aurora, đẩy vào bằng `tools/theme.sh`* | *Sáu cột và dock sáu ứng dụng, vẫn cùng launcher* |
-| ![Di chuyển một ô: giữ OK, chọn Move, ô được nhấc lên và các ô khác mờ đi](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/tile-move.jpg) | ![Thư viện ứng dụng: các ứng dụng đã cài, một lần nhấn thêm lại ứng dụng vào Home](https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/app-library.jpg) |
+| ![Di chuyển một ô: giữ OK, chọn Move, ô được nhấc lên và các ô khác mờ đi](docs/tile-move.jpg) | ![Thư viện ứng dụng: các ứng dụng đã cài, một lần nhấn thêm lại ứng dụng vào Home](docs/app-library.jpg) |
 | *Với `tile_menu`, giữ OK trên một ô, chọn Move: các phím mũi tên mang ô đi, Back đặt nó xuống* | *Thư viện ứng dụng: một lần nhấn đưa ứng dụng đã gỡ trở lại Home* |
 
 ## TV được hỗ trợ
@@ -104,9 +104,9 @@ Bất cứ thứ gì chạy **Android TV** hoặc **Google TV**.
 | **Android TV, Google TV** | Cả phần tinh gọn lẫn launcher. |
 | **Fire TV** | Chỉ phần tinh gọn, vì Fire OS không giao Home cho launcher bên thứ ba. Và trên Fire TV Box 2015 (Fire OS 5) thì ngay cả phần đó cũng thất bại: mọi đường `pm` đều bị từ chối. |
 | **Một vài mẫu TCL thị trường Trung Quốc** | Chúng từ chối cài bất kỳ launcher nào; danh sách của chúng ghi rõ điều này ở phần đầu. |
-| **Samsung (Tizen), LG (webOS)** | Hệ điều hành khác. Xem [SHOWCASE.md](https://github.com/Gathin23/cleanyourtv/blob/main/SHOWCASE.md#other-platforms-fire-tv-and-lg-webos) để biết ba bản port webOS, và [docs/devices/samsung-tizen.md](https://github.com/Gathin23/cleanyourtv/blob/main/docs/devices/samsung-tizen.md) để biết một TV Samsung 2021 trả lời gì qua Wi-Fi (không có ADB, nên không có `pm disable-user`) nếu bạn đang cân nhắc port lên Tizen. |
+| **Samsung (Tizen), LG (webOS)** | Hệ điều hành khác. Xem [SHOWCASE.md](SHOWCASE.md#other-platforms-fire-tv-and-lg-webos) để biết ba bản port webOS, và [docs/devices/samsung-tizen.md](docs/devices/samsung-tizen.md) để biết một TV Samsung 2021 trả lời gì qua Wi-Fi (không có ADB, nên không có `pm disable-user`) nếu bạn đang cân nhắc port lên Tizen. |
 
-Danh sách đã kiểm chứng từ người đóng góp, mỗi mẫu một thư mục trong [`examples/`](https://github.com/Gathin23/cleanyourtv/tree/main/examples):
+Danh sách đã kiểm chứng từ người đóng góp, mỗi mẫu một thư mục trong [`examples/`](examples):
 
 **TCL** 55 · **Xiaomi** 27 · **Sony** 26 · **Philips** 12 · **Hisense** 9 · **Skyworth** 9 · **Amazon Fire TV** 7 ·
 **Thomson** 4 · **BenQ** 3 · **Google** 3 · **Panasonic** 3 · **CHiQ** 2 · **FFalcon** 2 · **Haier** 2 · **Hitachi** 2 ·
@@ -352,7 +352,7 @@ máy chiếu Anker Nebula, BYINTEK, Epson, Gadnic, JMGO, Portronics, Stellamore,
 </details>
 
 TV của bạn không có trong danh sách? Câu lệnh sẽ tự phát hiện bloatware. Hãy thêm danh sách của bạn sau đó để
-người tiếp theo dùng đúng mẫu đó không phải làm lại bước này: [CONTRIBUTING.md](https://github.com/Gathin23/cleanyourtv/blob/main/CONTRIBUTING.md).
+người tiếp theo dùng đúng mẫu đó không phải làm lại bước này: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Làm thủ công
 
@@ -373,17 +373,17 @@ tools/theme.sh themes/aurora                                 # đẩy một them
 
 | Công cụ | Chức năng |
 |---|---|
-| [`tools/tv.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/tv.py) | Client ADB thuần Python: shell, batch, push, pull và chụp màn hình, tuỳ chọn nhấn phím điều khiển trước. Hoạt động ở nơi binary `adb` gốc bị chặn. |
-| [`tools/b64push.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/b64push.py) | Tải lên các tệp lớn như APK theo từng khối base64 và xác minh checksum. |
-| [`tools/relay.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/relay.py) | Chuyển tiếp một cổng cục bộ tới cổng ADB của TV, dành cho trợ lý có sandbox không truy cập được mạng của bạn. Chỉ lắng nghe trên máy tính này. [Hướng dẫn](https://github.com/Gathin23/cleanyourtv/blob/main/tools/relay.md). |
-| [`tools/disable.sh`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/disable.sh), [`restore.sh`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/restore.sh) | Áp dụng hoặc hoàn tác một danh sách debloat, phần hoàn tác dựa trên trạng thái được ghi lại trước khi thay đổi. |
-| [`tools/recovery.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/recovery.py) | Ghi bản ghi mà `disable.sh` cần để tự hoàn tác, và in ra lô lệnh khôi phục. |
-| [`tools/check.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/check.py) | So sánh TV với danh sách đã áp dụng, để biết bản cập nhật firmware đã hoàn tác gì; `--fix` đặt lại. |
-| [`tools/privacy.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/privacy.py) | Kiểm tra TV để tìm các ứng viên về giọng nói, ACR và telemetry rồi in bằng chứng cho từng cái; `--write` biến kết quả thành một danh sách mà `disable.sh` và `restore.sh` đã hiểu. |
-| [`tools/theme.sh`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/theme.sh) | Đẩy một thư mục trong [`themes/`](https://github.com/Gathin23/cleanyourtv/tree/main/themes) vào launcher và khởi động lại Home. |
-| [`tools/trace.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/trace.py), [`trace_report.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/trace_report.py) | Ghi trace Perfetto của launcher (quay về Home, khởi động nguội, phím D-pad) và báo cáo thời gian đi đâu, theo từng lần chạy và trước so với sau. Tuỳ chọn: cần [`requirements-perf.txt`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/requirements-perf.txt). [Hướng dẫn](https://github.com/Gathin23/cleanyourtv/blob/main/tools/trace.md). |
-| [`tools/race_calendar.py`](https://github.com/Gathin23/cleanyourtv/blob/main/tools/race_calendar.py) | Ghi lịch F1 mùa này vào một theme cho chế độ cuối tuần đua, lấy từ API miễn phí Jolpica. |
-| [`launcher/build-and-install.sh`](https://github.com/Gathin23/cleanyourtv/blob/main/launcher/build-and-install.sh) | Build một bản release thu gọn (khoảng 470 KB), cài đặt, chuyển Home, và quay lui nếu Home không trỏ vào nó. |
+| [`tools/tv.py`](tools/tv.py) | Client ADB thuần Python: shell, batch, push, pull và chụp màn hình, tuỳ chọn nhấn phím điều khiển trước. Hoạt động ở nơi binary `adb` gốc bị chặn. |
+| [`tools/b64push.py`](tools/b64push.py) | Tải lên các tệp lớn như APK theo từng khối base64 và xác minh checksum. |
+| [`tools/relay.py`](tools/relay.py) | Chuyển tiếp một cổng cục bộ tới cổng ADB của TV, dành cho trợ lý có sandbox không truy cập được mạng của bạn. Chỉ lắng nghe trên máy tính này. [Hướng dẫn](tools/relay.md). |
+| [`tools/disable.sh`](tools/disable.sh), [`restore.sh`](tools/restore.sh) | Áp dụng hoặc hoàn tác một danh sách debloat, phần hoàn tác dựa trên trạng thái được ghi lại trước khi thay đổi. |
+| [`tools/recovery.py`](tools/recovery.py) | Ghi bản ghi mà `disable.sh` cần để tự hoàn tác, và in ra lô lệnh khôi phục. |
+| [`tools/check.py`](tools/check.py) | So sánh TV với danh sách đã áp dụng, để biết bản cập nhật firmware đã hoàn tác gì; `--fix` đặt lại. |
+| [`tools/privacy.py`](tools/privacy.py) | Kiểm tra TV để tìm các ứng viên về giọng nói, ACR và telemetry rồi in bằng chứng cho từng cái; `--write` biến kết quả thành một danh sách mà `disable.sh` và `restore.sh` đã hiểu. |
+| [`tools/theme.sh`](tools/theme.sh) | Đẩy một thư mục trong [`themes/`](themes) vào launcher và khởi động lại Home. |
+| [`tools/trace.py`](tools/trace.py), [`trace_report.py`](tools/trace_report.py) | Ghi trace Perfetto của launcher (quay về Home, khởi động nguội, phím D-pad) và báo cáo thời gian đi đâu, theo từng lần chạy và trước so với sau. Tuỳ chọn: cần [`requirements-perf.txt`](tools/requirements-perf.txt). [Hướng dẫn](tools/trace.md). |
+| [`tools/race_calendar.py`](tools/race_calendar.py) | Ghi lịch F1 mùa này vào một theme cho chế độ cuối tuần đua, lấy từ API miễn phí Jolpica. |
+| [`launcher/build-and-install.sh`](launcher/build-and-install.sh) | Build một bản release thu gọn (khoảng 470 KB), cài đặt, chuyển Home, và quay lui nếu Home không trỏ vào nó. |
 
 Các script không bao giờ để TV không có ứng dụng Home: chúng chỉ tắt một launcher gốc mà chúng nhận diện được,
 và bỏ qua ứng dụng Home trong danh sách cho đến khi có launcher khác trả lời HOME. Chi tiết bên dưới.
@@ -437,7 +437,7 @@ phải trên panel, và một gói không có quyền âm thanh nào vẫn thấ
 `tools/privacy.py` báo cáo đúng những gì TV nói thay vì đoán:
 `TV_HOST=192.168.1.50 tools/venv/bin/python -I tools/privacy.py` in ra các ứng viên giọng nói, ACR và
 telemetry theo ba nhóm, mỗi nhóm kèm bằng chứng — được đặt tên bởi `voice_interaction_service` của chính
-firmware, một thành phần đã biết trong [`examples/`](https://github.com/Gathin23/cleanyourtv/tree/main/examples),
+firmware, một thành phần đã biết trong [`examples/`](examples),
 hoặc chỉ đơn thuần là tên khớp — cùng với việc gói đó có khai báo `RECORD_AUDIO` hay không, có dùng chung UID
 hệ thống hay không, và lịch sử AppOps trả về có truy cập micro hay không. Một chế độ đã cấu hình hay một lần
 thử bị từ chối không đủ là bằng chứng của việc truy cập.
@@ -458,21 +458,21 @@ Một màn hình chính gốc nhỏ gọn cho Android TV: **khoảng 470 KB**, J
 Không blur, không video, không quyền mạng, không dịch vụ nền.
 
 **TV** cần Android 8.0 (API 26) trở lên: `minSdk` là mức sàn lúc biên dịch trong
-[`launcher/app/build.gradle`](https://github.com/Gathin23/cleanyourtv/blob/main/launcher/app/build.gradle),
+[`launcher/app/build.gradle`](launcher/app/build.gradle),
 và script cài đặt hỏi TV `ro.build.version.sdk` trước khi build, nên máy cũ hơn được báo cả hai con số thay vì
-thất bại ở `pm install` (xem [Khắc phục sự cố](https://github.com/Gathin23/cleanyourtv/blob/main/docs/TROUBLESHOOTING.md)
+thất bại ở `pm install` (xem [Khắc phục sự cố](docs/TROUBLESHOOTING.md)
 để biết còn lại gì trên máy như vậy).
 
 | Mục | Cách hoạt động |
 |---|---|
-| **Cấu hình** | Thứ tự dock, ứng dụng ẩn, ứng dụng Live TV, 4 đến 7 ô mỗi hàng, giảm chuyển động. Tất cả trong [`config.xml`](https://github.com/Gathin23/cleanyourtv/blob/main/launcher/app/src/main/res/values/config.xml) |
+| **Cấu hình** | Thứ tự dock, ứng dụng ẩn, ứng dụng Live TV, 4 đến 7 ô mỗi hàng, giảm chuyển động. Tất cả trong [`config.xml`](launcher/app/src/main/res/values/config.xml) |
 | **Cài đặt trên TV** | Giữ OK trên Cài đặt để mở cài đặt launcher. Tuỳ chọn `launcher_settings_button` cho phép một lần nhấn thường mở thẳng; cài đặt TV vẫn nằm ở trang cài đặt và ô ứng dụng của nó. |
-| **Theme** | Hình nền, ảnh nền và bố cục từ một `config.json` đẩy qua Wi-Fi, không cần build lại. Có sẵn năm theme trong [`themes/`](https://github.com/Gathin23/cleanyourtv/tree/main/themes) |
+| **Theme** | Hình nền, ảnh nền và bố cục từ một `config.json` đẩy qua Wi-Fi, không cần build lại. Có sẵn năm theme trong [`themes/`](themes) |
 | **25 ngôn ngữ** | Theo ngôn ngữ của TV, với bố cục phải-sang-trái được lật hoàn toàn cho tiếng Hebrew |
-| **Thư viện ứng dụng** | Tuỳ chọn: duyệt mọi ứng dụng đã cài và thêm hoặc bớt lối tắt trên Home. Xem [hướng dẫn thư viện ứng dụng](https://github.com/Gathin23/cleanyourtv/blob/main/docs/app-library.md) |
+| **Thư viện ứng dụng** | Tuỳ chọn: duyệt mọi ứng dụng đã cài và thêm hoặc bớt lối tắt trên Home. Xem [hướng dẫn thư viện ứng dụng](docs/app-library.md) |
 | **Menu ô** | Tuỳ chọn (`tile_menu`): giữ OK trên một ô để Move, Remove from Home và App info. Khi tắt, giữ OK sẽ mở App info |
-| **Thẻ module** | Bất kỳ ứng dụng TV nào cũng có thể đề nghị ô riêng; bạn duyệt từng cái một lần. Xem [`docs/modules.md`](https://github.com/Gathin23/cleanyourtv/blob/main/docs/modules.md) |
-| **Tiện ích mở rộng** | Các ứng dụng tuỳ chọn cắm vào như thẻ module, nằm trong [`addons/`](https://github.com/Gathin23/cleanyourtv/tree/main/addons) và không bao giờ được build vào launcher |
+| **Thẻ module** | Bất kỳ ứng dụng TV nào cũng có thể đề nghị ô riêng; bạn duyệt từng cái một lần. Xem [`docs/modules.md`](docs/modules.md) |
+| **Tiện ích mở rộng** | Các ứng dụng tuỳ chọn cắm vào như thẻ module, nằm trong [`addons/`](addons) và không bao giờ được build vào launcher |
 | **Trình bảo vệ màn hình đồng hồ** | Một đồng hồ trôi trên quầng sáng, để không bị lưu ảnh |
 | **Phím remote** | Giữ các nút Input, YouTube và bánh răng hoạt động sau khi launcher gốc đã biến mất |
 
@@ -488,7 +488,7 @@ và `sdkmanager "platforms;android-34" "build-tools;34.0.0"`. Trên Linux, scrip
 <details>
 <summary><b>Cấu hình</b></summary>
 
-[`config.xml`](https://github.com/Gathin23/cleanyourtv/blob/main/launcher/app/src/main/res/values/config.xml)
+[`config.xml`](launcher/app/src/main/res/values/config.xml)
 đặt thứ tự dock, ứng dụng ẩn, gói Live TV, số cột (ô nhỏ lại khi từ 5 cột trở lên), số hàng dưới dock, một
 ứng dụng VPN tuỳ chọn cho viên mạng, và `reduced_motion` cho TV có GPU không theo kịp. Theme đặt cùng các khoá
 đó cộng thêm màu nền và ảnh nền.
@@ -529,8 +529,8 @@ mọi màn hình, kể cả cuối tuần đua, lời chúc lễ hội và ngày
 
 Bất kỳ ứng dụng TV nào cũng có thể khai báo ô riêng (nhãn, chú thích, quầng sáng). Launcher hỏi bạn một lần
 cho mỗi ứng dụng, mặc định giữ nó ẩn, và ghi nhớ câu trả lời theo khoá ký của ứng dụng đó và tên thẻ. Giữ OK
-trên Cài đặt và chọn Module cards để đổi ý. Cách tạo một thẻ: [`docs/modules.md`](https://github.com/Gathin23/cleanyourtv/blob/main/docs/modules.md);
-hợp đồng: [`docs/specs/card.md`](https://github.com/Gathin23/cleanyourtv/blob/main/docs/specs/card.md).
+trên Cài đặt và chọn Module cards để đổi ý. Cách tạo một thẻ: [`docs/modules.md`](docs/modules.md);
+hợp đồng: [`docs/specs/card.md`](docs/specs/card.md).
 
 </details>
 
@@ -556,7 +556,7 @@ tools/tv.py 'settings put secure screensaver_components com.gathin.tvhome/.Clock
   tiền tố, giữ nửa giây mở ứng dụng có `hold:` (theo keycode hoặc `hold:scan:...`).
 - `HOME_KEY_SERVICE=1` cũng sửa các stick có phím Home gửi ALL_APPS, và mở Cài đặt từ nút **bánh răng** trên
   remote, kể cả nút Android không map (scancode hoặc keycode trong config.xml).
-- Với `settings_key_panel`, bánh răng mở một [bảng cài đặt nhanh nhỏ](https://github.com/Gathin23/cleanyourtv/blob/main/docs/quick-settings-panel.jpg)
+- Với `settings_key_panel`, bánh răng mở một [bảng cài đặt nhanh nhỏ](docs/quick-settings-panel.jpg)
   trên Home hoặc bất kỳ ứng dụng nào: cài đặt TV, Hiển thị, Mạng, Ứng dụng và cài đặt Launcher.
 
 </details>
@@ -650,12 +650,12 @@ Trên Windows, lệnh tương đương là `tools\venv\Scripts\python.exe -I too
 ## Khi có sự cố
 
 Danh sách đầy đủ những chuyện đã làm chúng tôi đau đầu nằm trong
-[docs/TROUBLESHOOTING.md](https://github.com/Gathin23/cleanyourtv/blob/main/docs/TROUBLESHOOTING.md).
+[docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md).
 Ba điều quan trọng nhất:
 
 - 🍎 **macOS chặn `adb connect`** ("No route to host") dưới quyền riêng tư Mạng cục bộ. `tools/tv.py` tránh dùng binary này.
 - ⚠️ **Chỉ tắt launcher gốc sau khi launcher mới đã cài và đang chạy**, nếu không Home sẽ rơi vào ứng dụng kiểm tra nhà máy. Script cài đặt sắp xếp thứ tự này giúp bạn.
-- 🔁 **Trên Google TV, trình hướng dẫn thiết lập** (`com.google.android.tungsten.setupwraith`) có thể chiếm Home và làm hệ thống crash-loop sau khi launcher gốc bị tắt. Hãy tắt nó luôn, và liệt kê nó trong `debloat.txt` để restore mang nó trở lại. Nhưng trước hết hãy kiểm tra `dumpsys wifi | grep -o 'cname=[^ ]*'`: nếu mạng Wi-Fi được lưu trong lúc thiết lập thì nó thuộc về setupwraith, và tắt nó sẽ xoá mạng (hãy vào lại mạng trong Cài đặt trước; `tools/disable.sh` bỏ qua setupwraith cho đến khi bạn làm vậy). Trên Chromecast của Google và trên Google TV Streamer, nó còn làm mất tính năng cast từ điện thoại, xem [Khắc phục sự cố](https://github.com/Gathin23/cleanyourtv/blob/main/docs/TROUBLESHOOTING.md). Đã bị kẹt? `tools/tv.py 'pm enable --user 0 com.google.android.apps.tv.launcherx'`.
+- 🔁 **Trên Google TV, trình hướng dẫn thiết lập** (`com.google.android.tungsten.setupwraith`) có thể chiếm Home và làm hệ thống crash-loop sau khi launcher gốc bị tắt. Hãy tắt nó luôn, và liệt kê nó trong `debloat.txt` để restore mang nó trở lại. Nhưng trước hết hãy kiểm tra `dumpsys wifi | grep -o 'cname=[^ ]*'`: nếu mạng Wi-Fi được lưu trong lúc thiết lập thì nó thuộc về setupwraith, và tắt nó sẽ xoá mạng (hãy vào lại mạng trong Cài đặt trước; `tools/disable.sh` bỏ qua setupwraith cho đến khi bạn làm vậy). Trên Chromecast của Google và trên Google TV Streamer, nó còn làm mất tính năng cast từ điện thoại, xem [Khắc phục sự cố](docs/TROUBLESHOOTING.md). Đã bị kẹt? `tools/tv.py 'pm enable --user 0 com.google.android.apps.tv.launcherx'`.
 
 ## Câu hỏi thường gặp
 
@@ -690,7 +690,7 @@ khởi chạy bằng intent đã ổn định suốt một thập kỷ.
 Được, qua một liên kết [Tailscale](https://tailscale.com) riêng tư thay vì cùng Wi-Fi: hoặc Tailscale trên TV
 của họ, chia sẻ với bạn, hoặc một máy tính hay Apple TV ở nhà họ làm gateway. Tuyệt đối không bằng cách mở cổng
 ADB trên router của họ. Hướng dẫn từng bước trong
-[docs/REMOTE.md](https://github.com/Gathin23/cleanyourtv/blob/main/docs/REMOTE.md).
+[docs/REMOTE.md](docs/REMOTE.md).
 
 </details>
 
@@ -742,3 +742,5 @@ nó nằm trong [PR #84](https://github.com/Gathin23/cleanyourtv/pull/84).
 <summary><b>Tôi có thể chỉ tải APK không?</b></summary>
 
 Hãy build bằng script một dòng; mất một phút và bạn kiểm soát thứ được cài lên TV. Không có binary dựng sẵn.
+
+</details>
